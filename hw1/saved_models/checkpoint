@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/rodolfo/Code/LosDemas/cs294-112/homework/hw1/saved_models/Ant-v2-100000.ckpt"
+all_model_checkpoint_paths: "/Users/rodolfo/Code/LosDemas/cs294-112/homework/hw1/saved_models/Ant-v2-80000.ckpt"
+all_model_checkpoint_paths: "/Users/rodolfo/Code/LosDemas/cs294-112/homework/hw1/saved_models/Ant-v2-85000.ckpt"
+all_model_checkpoint_paths: "/Users/rodolfo/Code/LosDemas/cs294-112/homework/hw1/saved_models/Ant-v2-90000.ckpt"
+all_model_checkpoint_paths: "/Users/rodolfo/Code/LosDemas/cs294-112/homework/hw1/saved_models/Ant-v2-95000.ckpt"
+all_model_checkpoint_paths: "/Users/rodolfo/Code/LosDemas/cs294-112/homework/hw1/saved_models/Ant-v2-100000.ckpt"

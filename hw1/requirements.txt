@@ -1,5 +1,5 @@
 gym==0.10.5
-mujoco-py==1.50.1.56
+mujoco-py<2.1,>=2.0
 tensorflow
 numpy
 seaborn
